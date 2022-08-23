@@ -1,1 +1,0 @@
-Converter converter = new Converter();
